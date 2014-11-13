@@ -36,4 +36,4 @@ title: 第一篇在网页上直接写博客
 
 ###测试一张图片的显示效果
 
-![这是一个测试图片链接]( / images/beauty.png)
+![这是一个测试图片链接](/images/beauty.png)
