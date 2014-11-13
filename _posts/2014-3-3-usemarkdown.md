@@ -1,7 +1,9 @@
 ---
-layout:default
-title:第一篇在网页上直接写博客
+layout: default
+title: 第一篇在网页上直接写博客
 ---
+
+
 ##首页
 ###一级标题
 ###测试代码高亮
